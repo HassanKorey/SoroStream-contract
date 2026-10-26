@@ -1,0 +1,11 @@
+# Rust build artifacts
+target/
+**/target/
+**/*.rs.bk
+Cargo.lock.bk
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
